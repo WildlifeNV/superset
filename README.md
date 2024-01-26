@@ -1,3 +1,8 @@
+## Fork of Superset, used by NDOW
+
+* Set `SUPERSET_SECRET_KEY` env variable
+* Run with `docker compose -f docker-compose-non-dev.yml up -d`
+
 <!--
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
